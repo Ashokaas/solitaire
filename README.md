@@ -26,3 +26,5 @@ Les fichiers suivants sont nécessaires:
 Sur Linux il faut être en administrateur pour pouvoir utiliser keyboard.
   - sudo pip install keyboard
   - sudo python3 main.py'
+
+<img src="https://user-images.githubusercontent.com/99681959/200182988-057e815a-15d4-42b7-b8f8-1f5a9e1b1282.png" width="60%">
